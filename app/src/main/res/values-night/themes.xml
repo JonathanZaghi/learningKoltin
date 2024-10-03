@@ -2,6 +2,9 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.LearningKotlin" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary2</item>
+        <item name="android:windowBackground">@color/background</item>
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
 </resources>

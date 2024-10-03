@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">learningKotlin</string>
+    <string name="bmi_button">IMC Calculator</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="diagnostic">Diagnostic 0.0</string>
+    <string name="hint_weight">Enter your weight ex: 60.5</string>
+    <string name="hint_height">Enter your height</string>
+    <string name="hint_weight_height">Type \".\" for decimals number</string>
+    <string name="netflix_button">Netflix</string>
+    <string name="reported_weight">Reported weight: %1$.2f</string>
+    <string name="reported_height">Reported height: %1$.2f</string>
+    <string name="typed_weight">Typed Weight 0 KG</string>
+    <string name="typed_height">Typed height 0 m</string>
+    <string name="warning_bmi">Enter Weight and Height</string>
 </resources>
